@@ -1,2 +1,2 @@
 # mqtt
-publish and subscribe
+publish and subscribe using CMD
